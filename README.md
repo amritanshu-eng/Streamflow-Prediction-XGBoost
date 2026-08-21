@@ -34,17 +34,18 @@ The project is deployed as an interactive **Streamlit SCADA-style dashboard** th
 ---
 
 ## 📂 Repository Structure
+
 ```text
 Arno-River-Hydrology-AI/
 │
 ├── data/                       
-│   └── water_data.csv            # Raw historical meteorological data (ignored in .gitignore if large)
+│   └── water_data.csv          # Raw historical meteorological data
 │
 ├── notebook/
-│   └── Streamflow_Model.ipynb    # Clean ML pipeline (EDA, Feature Eng, CV, SHAP, Export)
-├── Dashboard.png
-|
-├── README.md                     # Streamlit dashboard deployment script
-├── app.py                        # IIT Kanpur / Project logo for the dashboard sidebar
-├── logo.png                      # Python dependencies
-└── requirements.txt              # Project documentation
+│   └── Streamflow_Model.ipynb  # Clean ML pipeline (EDA, Feature Eng, CV, SHAP)
+│
+├── Dashboard.png               # Screenshot of the Streamlit app for the README
+├── README.md                   # Project documentation
+├── app.py                      # Streamlit dashboard deployment script
+├── logo.png                    # IIT Kanpur / Project logo for the dashboard sidebar
+└── requirements.txt            # Python dependencies
