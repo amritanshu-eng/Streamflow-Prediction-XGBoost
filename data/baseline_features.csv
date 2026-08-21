@@ -1,0 +1,2 @@
+Rainfall,Temperature,Rainfall_Lag1,Rainfall_Lag2,Flow_Lag1,Rainfall_3D_Sum,Rainfall_7D_Sum,Flow_Lag2,Rain_Lag1,Rain_Sum_3d,Rain_Std_3d,Flow_Mean_3d,Rain_Sum_7d,Rain_Std_7d,Flow_Mean_7d,Rain_Sum_15d,Rain_Std_15d,Flow_Mean_15d,Rain_Sum_30d,Rain_Std_30d,Flow_Mean_30d,Rain_EWMA_7
+0.0,4.3,0.0,0.0,1.49,0.0,0.0,1.27,0.0,0.0,0.0,1.4466666666666683,0.0,0.0,1.592857142857143,44.4,10.380255983631342,1.9246666666666667,152.6,11.221369187259707,1.7133333333333334,0.5704507241455884
